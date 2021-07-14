@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Waifu2x-caffe-video": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:\\Convert\\Cynical Night Plan_Soda Wave.cfr.mp4\""
+    }
+  }
+}
